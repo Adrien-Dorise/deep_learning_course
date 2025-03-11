@@ -6,8 +6,7 @@ setup(name="deep_learning_course",
       author="Adrien Dorise",
       author_email="adrien.dorise@hotmail.com",
       url="https://github.com/Adrien-Dorise/deep_learning_course",
-      packages=["part2_artificial_neural_network"
-                ],
+      packages=[],
       install_requires=[
             "numpy >= 1.24.2",
             "torch >= 1.13.1",

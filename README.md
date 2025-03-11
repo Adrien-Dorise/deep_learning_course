@@ -32,6 +32,7 @@ Each project is provided as a **Jupyter Notebook** that learners must complete.
    ```  
 2. Install dependencies using `setup.py`:  
    ```bash
+   ipython kernel install
    pip install .
    ```  
 3. Launch Jupyter Notebook:  
