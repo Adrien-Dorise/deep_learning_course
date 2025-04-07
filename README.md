@@ -3,8 +3,9 @@
    This repository contains a hands-on deep learning course designed to help learners grasp key concepts through practical experiments. The course is divided into four parts, covering fundamental architectures and their applications.   
 
       
-   It was created by Dr. Adrien Dorise.   
-   `https://lawtechproductions.com/adrien-dorise/`
+   It was created by Dr. Adrien Dorise.  
+   Contact: adrien.dorise@hotmail.com  
+   https://lawtechproductions.com/adrien-dorise/
 
 
    ## 📚 Course Structure
