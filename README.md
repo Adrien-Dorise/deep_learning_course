@@ -55,7 +55,9 @@
 
    ## 🤝 Contributing
 
-   Feel free to submit pull requests, report issues, or suggest improvements!
+   Feel free to submit pull requests, report issues, or suggest improvements!  
+
+   Don't hesitate to add a *star* on this repository, it helps me a lot!
 
    ## 📜 License
 
